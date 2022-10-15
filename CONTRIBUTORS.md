@@ -1,3 +1,8 @@
+#### Name: Dhruv Dixit
+ - Place: Lucknow, Uttar Pradesh, India
+ - Bio: Student (Final year CSE)
+ - GitHub: [dhruvdixit06](https://github.com/dhruvdixit06)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
